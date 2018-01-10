@@ -1,10 +1,10 @@
 # -*- coding:utf-8 -*-
 
-image_directory = "D:/screenshots/"
+image_directory = "E:/screenshots/"
 
-driver_location = "D:\chromedriver_win32\chromedriver.exe"
+driver_location = "E:\soft\selenium\chromedriver.exe"
 
-appcode = '9fdc5f6373ad4c0b8829d8d1a3b23b73'
+appcode = '6adcce499b7d499aadc21d26e14c8e1c'
 
 # 截取题目
 left = 90 # 距离左边的像素

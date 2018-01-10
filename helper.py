@@ -47,6 +47,7 @@ while True:
              }
   res = requests.post(url, data=json.dumps(data), headers=headers)
   content = res.text
+  print(res)
   if res.status_code != 200:
     print("orc识别错误")
     break
